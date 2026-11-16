@@ -30,7 +30,7 @@ python -m http.server
 Avec la commande [vite](https://vite.dev/guide/cli) en NodeJs
 
 ```sh
-npw vite --port 8000
+npx vite --port 8000
 ```
 
 ## Serveur jwebserver avec Java
